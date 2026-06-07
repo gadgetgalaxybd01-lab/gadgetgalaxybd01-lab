@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - IAM A AI ENGINAR VIBECODER
@@ -28,9 +28,6 @@
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=gadgetgalaxybd01-lab&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="HI's GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
 
@@ -97,11 +94,21 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://awesomegithub.web.app/generate"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="HI's LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://awesomegithub.web.app/generate"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="HI's Twitter"/></a>&nbsp;&nbsp;
-  <a href="https://awesomegithub.web.app/generate"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="HI's YouTube"/></a>&nbsp;&nbsp;
-  <a href="mailto:https://awesomegithub.web.app/generate"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="HI's Email"/></a>&nbsp;&nbsp;
-  <a href="https://wa.me/1705546770"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://awesomegithub.web.app/generate">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://awesomegithub.web.app/generate">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/1705546770">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://awesomegithub.web.app/generate">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:https://awesomegithub.web.app/generate">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 
 <picture>
@@ -111,4 +118,8 @@
 </picture>
 
 <p align="center"><a href="https://www.buymeacoffee.com/mahatabk4321@gmail.com" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RteGp6MzRoeDFzNTdqZW9icDZuZ25xdWVzZWIxc21jajNpY3dobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uGyzqAMyCR0FBVkZ4/giphy.gif" alt="Bottom Line" width="100%" />
+</div>
 
